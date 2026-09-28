@@ -34,6 +34,8 @@ html, body{
 /* Text */
 .title-section {
 position: absolute;
+background-color: rgb(245, 186, 134);
+border-radius: 15px;
 top: 50%;
 left: 0px;
 width: 100%;
@@ -41,12 +43,10 @@ text-align: center;
 }
 
 .Title {
-    background-color: rgb(245, 186, 134);
     color: white;
-    font-size: 40px;
+    font-size: 3em;
     font-weight: bold;
     padding: 15px;
-    border-radius: 15px;
 }
 
 
